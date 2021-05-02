@@ -21,17 +21,22 @@ header {
        
 
     display: flex;
-    align-items: center;
+    
   }
 
 .container-fluid{
-     position: absolute;
+     position: center;
      margin-top: 50px;
+     width: 70%;
     
 
 }
 
-
+.cardTime{
+    background-color: rgb(177, 151, 120);
+    height: 40px;
+    
+}
 
 
 
@@ -39,6 +44,7 @@ header {
     
       background-color: rgb(97, 170, 164);
       height: 50px;
+      
       
         
   }
