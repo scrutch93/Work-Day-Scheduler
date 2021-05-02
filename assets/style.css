@@ -24,6 +24,17 @@ header {
     align-items: center;
   }
 
+.container-fluid{
+     position: absolute;
+     margin-top: 50px;
+    
+
+}
+
+
+
+
+
   .card {
     
       background-color: rgb(97, 170, 164);
