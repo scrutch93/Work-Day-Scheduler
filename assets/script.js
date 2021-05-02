@@ -1,7 +1,3 @@
-var rootEl = $('#root');
+var displayTime = moment().toString();
 
-var titleEl = $('<header>');
-
-titleEl.attr ('class', 'fancy');
-
-rootEl.append(titleEl);
+document.getElementById("time").innerHTML = displayTime;
